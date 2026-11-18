@@ -1,0 +1,1 @@
+function e(e,t,n){let r=n?n.length:t.length;if(r===0)return 0;let i=0;for(let a=0;a<r;a++){let r=n?n[a]:a;e[r]===t[r]&&i++}return i/r}function t(e,t,n){let r=n?n.length:t.length;if(r===0)return 0;let i=0;for(let a=0;a<r;a++){let r=n?n[a]:a;i+=(e[r]-t[r])**2}return i/r}export{t as n,e as t};

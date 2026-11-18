@@ -1,0 +1,1156 @@
+{
+  "_Axes-DuIqGiDY.js": {
+    "file": "assets/Axes-DuIqGiDY.js",
+    "name": "Axes",
+    "imports": [
+      "_rolldown-runtime-XKyaHtl9.js",
+      "_vendor-react-CVpX7CXv.js",
+      "_Label-CIG7xFYZ.js",
+      "_lesson-BfEMwmys.js"
+    ]
+  },
+  "_DataPoints-BIsEPzEE.js": {
+    "file": "assets/DataPoints-BIsEPzEE.js",
+    "name": "DataPoints",
+    "imports": [
+      "_rolldown-runtime-XKyaHtl9.js",
+      "_vendor-3d-C5O2Be0I.js",
+      "_vendor-react-CVpX7CXv.js",
+      "_Label-CIG7xFYZ.js"
+    ]
+  },
+  "_Grid-C7syWaZ0.js": {
+    "file": "assets/Grid-C7syWaZ0.js",
+    "name": "Grid",
+    "imports": [
+      "_rolldown-runtime-XKyaHtl9.js",
+      "_vendor-react-CVpX7CXv.js",
+      "_vendor-3d-C5O2Be0I.js",
+      "_Label-CIG7xFYZ.js",
+      "_lesson-BfEMwmys.js"
+    ]
+  },
+  "_HeightField-Dz7208lk.js": {
+    "file": "assets/HeightField-Dz7208lk.js",
+    "name": "HeightField",
+    "imports": [
+      "_rolldown-runtime-XKyaHtl9.js",
+      "_vendor-react-CVpX7CXv.js",
+      "_vendor-3d-C5O2Be0I.js",
+      "_aces-C4Cat0Es.js",
+      "_gridMesh-iwyOEmjT.js",
+      "_ramps-DQrcJ7H7.js",
+      "_Label-CIG7xFYZ.js",
+      "_lesson-BfEMwmys.js"
+    ]
+  },
+  "_Label-CIG7xFYZ.js": {
+    "file": "assets/Label-CIG7xFYZ.js",
+    "name": "Label",
+    "imports": [
+      "_rolldown-runtime-XKyaHtl9.js",
+      "_vendor-react-CVpX7CXv.js",
+      "_vendor-3d-C5O2Be0I.js"
+    ]
+  },
+  "_LineChart-DRtdFFe3.js": {
+    "file": "assets/LineChart-DRtdFFe3.js",
+    "name": "LineChart",
+    "imports": [
+      "_rolldown-runtime-XKyaHtl9.js",
+      "_vendor-react-CVpX7CXv.js",
+      "_Label-CIG7xFYZ.js",
+      "_ramps-DQrcJ7H7.js"
+    ]
+  },
+  "_ParamControls-2lByGag4.js": {
+    "file": "assets/ParamControls-2lByGag4.js",
+    "name": "ParamControls",
+    "imports": [
+      "_rolldown-runtime-XKyaHtl9.js",
+      "_vendor-react-CVpX7CXv.js",
+      "_Label-CIG7xFYZ.js",
+      "_Tex-DKQsFRc2.js"
+    ]
+  },
+  "_ParametricCurve-akBbQx6K.js": {
+    "file": "assets/ParametricCurve-akBbQx6K.js",
+    "name": "ParametricCurve",
+    "imports": [
+      "_lesson-BfEMwmys.js",
+      "_ramps-DQrcJ7H7.js",
+      "_vendor-react-CVpX7CXv.js"
+    ]
+  },
+  "_Plane-CDQfHUbZ.js": {
+    "file": "assets/Plane-CDQfHUbZ.js",
+    "name": "Plane",
+    "imports": [
+      "_rolldown-runtime-XKyaHtl9.js",
+      "_vendor-react-CVpX7CXv.js",
+      "_vendor-3d-C5O2Be0I.js"
+    ]
+  },
+  "_Point-lHlOHJJP.js": {
+    "file": "assets/Point-lHlOHJJP.js",
+    "name": "Point",
+    "imports": [
+      "_rolldown-runtime-XKyaHtl9.js",
+      "_vendor-3d-C5O2Be0I.js",
+      "_vendor-react-CVpX7CXv.js",
+      "_Label-CIG7xFYZ.js",
+      "_lesson-BfEMwmys.js"
+    ]
+  },
+  "_Pulse-BkZUKSRT.js": {
+    "file": "assets/Pulse-BkZUKSRT.js",
+    "name": "Pulse",
+    "imports": [
+      "_rolldown-runtime-XKyaHtl9.js",
+      "_vendor-react-CVpX7CXv.js",
+      "_Label-CIG7xFYZ.js",
+      "_vendor-3d-C5O2Be0I.js",
+      "_lesson-BfEMwmys.js",
+      "_ramps-DQrcJ7H7.js"
+    ]
+  },
+  "_Rects-Cfn0Ruxc.js": {
+    "file": "assets/Rects-Cfn0Ruxc.js",
+    "name": "Rects",
+    "imports": [
+      "_rolldown-runtime-XKyaHtl9.js",
+      "_vendor-react-CVpX7CXv.js",
+      "_vendor-3d-C5O2Be0I.js",
+      "_lesson-BfEMwmys.js",
+      "_ramps-DQrcJ7H7.js"
+    ]
+  },
+  "_Surface-CKwA0FSx.js": {
+    "file": "assets/Surface-CKwA0FSx.js",
+    "name": "Surface",
+    "imports": [
+      "_rolldown-runtime-XKyaHtl9.js",
+      "_vendor-3d-C5O2Be0I.js",
+      "_vendor-react-CVpX7CXv.js",
+      "_Label-CIG7xFYZ.js",
+      "_quality-cBntSlcS.js",
+      "_lesson-BfEMwmys.js",
+      "_gridMesh-iwyOEmjT.js",
+      "_ramps-DQrcJ7H7.js"
+    ]
+  },
+  "_Tex-DKQsFRc2.js": {
+    "file": "assets/Tex-DKQsFRc2.js",
+    "name": "Tex",
+    "imports": [
+      "_rolldown-runtime-XKyaHtl9.js",
+      "_vendor-katex-dleUf-TG.js",
+      "_vendor-react-CVpX7CXv.js"
+    ]
+  },
+  "_TreeDiagram-DfBDswCI.js": {
+    "file": "assets/TreeDiagram-DfBDswCI.js",
+    "name": "TreeDiagram",
+    "imports": [
+      "_rolldown-runtime-XKyaHtl9.js",
+      "_vendor-react-CVpX7CXv.js",
+      "_Label-CIG7xFYZ.js"
+    ]
+  },
+  "_Vector-DdBzR8FB.js": {
+    "file": "assets/Vector-DdBzR8FB.js",
+    "name": "Vector",
+    "imports": [
+      "_rolldown-runtime-XKyaHtl9.js",
+      "_vendor-react-CVpX7CXv.js",
+      "_vendor-3d-C5O2Be0I.js",
+      "_Label-CIG7xFYZ.js",
+      "_lesson-BfEMwmys.js"
+    ]
+  },
+  "_aces-C4Cat0Es.js": {
+    "file": "assets/aces-C4Cat0Es.js",
+    "name": "aces"
+  },
+  "_datasets-ClOmvkVi.js": {
+    "file": "assets/datasets-ClOmvkVi.js",
+    "name": "datasets",
+    "imports": [
+      "_rng-Bl65VPxH.js"
+    ]
+  },
+  "_grid-CqSBVIUk.js": {
+    "file": "assets/grid-CqSBVIUk.js",
+    "name": "grid",
+    "imports": [
+      "_mlp-DvujkoY_.js"
+    ]
+  },
+  "_gridMesh-iwyOEmjT.js": {
+    "file": "assets/gridMesh-iwyOEmjT.js",
+    "name": "gridMesh",
+    "imports": [
+      "_rolldown-runtime-XKyaHtl9.js",
+      "_vendor-react-CVpX7CXv.js",
+      "_vendor-3d-C5O2Be0I.js",
+      "_aces-C4Cat0Es.js"
+    ]
+  },
+  "_lesson-BfEMwmys.js": {
+    "file": "assets/lesson-BfEMwmys.js",
+    "name": "lesson",
+    "imports": [
+      "_rolldown-runtime-XKyaHtl9.js",
+      "_vendor-react-CVpX7CXv.js",
+      "_Label-CIG7xFYZ.js",
+      "_vendor-3d-C5O2Be0I.js"
+    ]
+  },
+  "_linalg-DmIHl5-7.js": {
+    "file": "assets/linalg-DmIHl5-7.js",
+    "name": "linalg",
+    "imports": [
+      "_rolldown-runtime-XKyaHtl9.js",
+      "_vendor-react-CVpX7CXv.js",
+      "_Label-CIG7xFYZ.js"
+    ]
+  },
+  "_math-DKLy3bTD.js": {
+    "file": "assets/math-DKLy3bTD.js",
+    "name": "math",
+    "imports": [
+      "_datasets-ClOmvkVi.js",
+      "_Label-CIG7xFYZ.js",
+      "_metrics-CtRY8EK2.js"
+    ]
+  },
+  "_metrics-CtRY8EK2.js": {
+    "file": "assets/metrics-CtRY8EK2.js",
+    "name": "metrics"
+  },
+  "_mlp-DvujkoY_.js": {
+    "file": "assets/mlp-DvujkoY_.js",
+    "name": "mlp",
+    "imports": [
+      "_rng-Bl65VPxH.js"
+    ]
+  },
+  "_motion-TNu1k6Qd.js": {
+    "file": "assets/motion-TNu1k6Qd.js",
+    "name": "motion",
+    "imports": [
+      "_Label-CIG7xFYZ.js"
+    ]
+  },
+  "_optim-7JFOZB4l.js": {
+    "file": "assets/optim-7JFOZB4l.js",
+    "name": "optim"
+  },
+  "_probability-CTQhkNtq.js": {
+    "file": "assets/probability-CTQhkNtq.js",
+    "name": "probability",
+    "imports": [
+      "_rng-Bl65VPxH.js"
+    ]
+  },
+  "_protocol-pK11iYk6.js": {
+    "file": "assets/protocol-pK11iYk6.js",
+    "name": "protocol",
+    "imports": [
+      "_rng-Bl65VPxH.js"
+    ]
+  },
+  "_quality-cBntSlcS.js": {
+    "file": "assets/quality-cBntSlcS.js",
+    "name": "quality",
+    "imports": [
+      "_vendor-react-CVpX7CXv.js"
+    ]
+  },
+  "_ramps-DQrcJ7H7.js": {
+    "file": "assets/ramps-DQrcJ7H7.js",
+    "name": "ramps",
+    "imports": [
+      "_Label-CIG7xFYZ.js"
+    ]
+  },
+  "_regression-0laLHtP7.js": {
+    "file": "assets/regression-0laLHtP7.js",
+    "name": "regression",
+    "imports": [
+      "_stats-BgqZGmc2.js"
+    ]
+  },
+  "_rng-Bl65VPxH.js": {
+    "file": "assets/rng-Bl65VPxH.js",
+    "name": "rng"
+  },
+  "_rolldown-runtime-XKyaHtl9.js": {
+    "file": "assets/rolldown-runtime-XKyaHtl9.js",
+    "name": "rolldown-runtime"
+  },
+  "_stats-BgqZGmc2.js": {
+    "file": "assets/stats-BgqZGmc2.js",
+    "name": "stats",
+    "imports": [
+      "_probability-CTQhkNtq.js",
+      "_rng-Bl65VPxH.js"
+    ]
+  },
+  "_vendor-3d-C5O2Be0I.js": {
+    "file": "assets/vendor-3d-C5O2Be0I.js",
+    "name": "vendor-3d",
+    "imports": [
+      "_rolldown-runtime-XKyaHtl9.js",
+      "_vendor-react-CVpX7CXv.js"
+    ]
+  },
+  "_vendor-katex-CWZfmUOL.css": {
+    "file": "assets/vendor-katex-CWZfmUOL.css",
+    "src": "_vendor-katex-CWZfmUOL.css"
+  },
+  "_vendor-katex-dleUf-TG.js": {
+    "file": "assets/vendor-katex-dleUf-TG.js",
+    "name": "vendor-katex",
+    "css": [
+      "assets/vendor-katex-CWZfmUOL.css"
+    ],
+    "assets": [
+      "assets/KaTeX_AMS-Regular-BQhdFMY1.woff2",
+      "assets/KaTeX_AMS-Regular-DMm9YOAa.woff",
+      "assets/KaTeX_AMS-Regular-DRggAlZN.ttf",
+      "assets/KaTeX_Caligraphic-Bold-Dq_IR9rO.woff2",
+      "assets/KaTeX_Caligraphic-Bold-BEiXGLvX.woff",
+      "assets/KaTeX_Caligraphic-Bold-ATXxdsX0.ttf",
+      "assets/KaTeX_Caligraphic-Regular-Di6jR-x-.woff2",
+      "assets/KaTeX_Caligraphic-Regular-CTRA-rTL.woff",
+      "assets/KaTeX_Caligraphic-Regular-wX97UBjC.ttf",
+      "assets/KaTeX_Fraktur-Bold-CL6g_b3V.woff2",
+      "assets/KaTeX_Fraktur-Bold-BsDP51OF.woff",
+      "assets/KaTeX_Fraktur-Bold-BdnERNNW.ttf",
+      "assets/KaTeX_Fraktur-Regular-CTYiF6lA.woff2",
+      "assets/KaTeX_Fraktur-Regular-Dxdc4cR9.woff",
+      "assets/KaTeX_Fraktur-Regular-CB_wures.ttf",
+      "assets/KaTeX_Main-Bold-Cx986IdX.woff2",
+      "assets/KaTeX_Main-Bold-Jm3AIy58.woff",
+      "assets/KaTeX_Main-Bold-waoOVXN0.ttf",
+      "assets/KaTeX_Main-BoldItalic-DxDJ3AOS.woff2",
+      "assets/KaTeX_Main-BoldItalic-SpSLRI95.woff",
+      "assets/KaTeX_Main-BoldItalic-DzxPMmG6.ttf",
+      "assets/KaTeX_Main-Italic-NWA7e6Wa.woff2",
+      "assets/KaTeX_Main-Italic-BMLOBm91.woff",
+      "assets/KaTeX_Main-Italic-3WenGoN9.ttf",
+      "assets/KaTeX_Main-Regular-B22Nviop.woff2",
+      "assets/KaTeX_Main-Regular-Dr94JaBh.woff",
+      "assets/KaTeX_Main-Regular-ypZvNtVU.ttf",
+      "assets/KaTeX_Math-BoldItalic-CZnvNsCZ.woff2",
+      "assets/KaTeX_Math-BoldItalic-iY-2wyZ7.woff",
+      "assets/KaTeX_Math-BoldItalic-B3XSjfu4.ttf",
+      "assets/KaTeX_Math-Italic-t53AETM-.woff2",
+      "assets/KaTeX_Math-Italic-DA0__PXp.woff",
+      "assets/KaTeX_Math-Italic-flOr_0UB.ttf",
+      "assets/KaTeX_SansSerif-Bold-D1sUS0GD.woff2",
+      "assets/KaTeX_SansSerif-Bold-DbIhKOiC.woff",
+      "assets/KaTeX_SansSerif-Bold-CFMepnvq.ttf",
+      "assets/KaTeX_SansSerif-Italic-C3H0VqGB.woff2",
+      "assets/KaTeX_SansSerif-Italic-DN2j7dab.woff",
+      "assets/KaTeX_SansSerif-Italic-YYjJ1zSn.ttf",
+      "assets/KaTeX_SansSerif-Regular-DDBCnlJ7.woff2",
+      "assets/KaTeX_SansSerif-Regular-CS6fqUqJ.woff",
+      "assets/KaTeX_SansSerif-Regular-BNo7hRIc.ttf",
+      "assets/KaTeX_Script-Regular-D3wIWfF6.woff2",
+      "assets/KaTeX_Script-Regular-D5yQViql.woff",
+      "assets/KaTeX_Script-Regular-C5JkGWo-.ttf",
+      "assets/KaTeX_Size1-Regular-mCD8mA8B.woff2",
+      "assets/KaTeX_Size1-Regular-C195tn64.woff",
+      "assets/KaTeX_Size1-Regular-Dbsnue_I.ttf",
+      "assets/KaTeX_Size2-Regular-Dy4dx90m.woff2",
+      "assets/KaTeX_Size2-Regular-oD1tc_U0.woff",
+      "assets/KaTeX_Size2-Regular-B7gKUWhC.ttf",
+      "assets/KaTeX_Size3-Regular-CTq5MqoE.woff",
+      "assets/KaTeX_Size3-Regular-DgpXs0kz.ttf",
+      "assets/KaTeX_Size4-Regular-Dl5lxZxV.woff2",
+      "assets/KaTeX_Size4-Regular-BF-4gkZK.woff",
+      "assets/KaTeX_Size4-Regular-DWFBv043.ttf",
+      "assets/KaTeX_Typewriter-Regular-CO6r4hn1.woff2",
+      "assets/KaTeX_Typewriter-Regular-C0xS9mPB.woff",
+      "assets/KaTeX_Typewriter-Regular-D3Ib7_Hf.ttf"
+    ]
+  },
+  "_vendor-motion-C0j0LjH1.js": {
+    "file": "assets/vendor-motion-C0j0LjH1.js",
+    "name": "vendor-motion",
+    "imports": [
+      "_rolldown-runtime-XKyaHtl9.js",
+      "_vendor-react-CVpX7CXv.js"
+    ]
+  },
+  "_vendor-react-CVpX7CXv.js": {
+    "file": "assets/vendor-react-CVpX7CXv.js",
+    "name": "vendor-react",
+    "imports": [
+      "_rolldown-runtime-XKyaHtl9.js"
+    ]
+  },
+  "index.html": {
+    "file": "assets/index-CV3LC7Ds.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "imports": [
+      "_rolldown-runtime-XKyaHtl9.js",
+      "_vendor-react-CVpX7CXv.js"
+    ],
+    "dynamicImports": [
+      "src/lessons/matrix-transformations/index.ts",
+      "src/lessons/the-neuron/index.ts",
+      "src/lessons/neural-networks/index.ts",
+      "src/lessons/backpropagation/index.ts",
+      "src/lessons/decision-trees/index.ts",
+      "src/lessons/random-forests/index.ts",
+      "src/lessons/gradient-boosting/index.ts",
+      "src/lessons/unit-circle/index.ts",
+      "src/lessons/limits-derivative/index.ts",
+      "src/lessons/galton-clt/index.ts",
+      "src/lessons/mean-variance/index.ts",
+      "src/lessons/normal-distribution/index.ts",
+      "src/lessons/bayes-theorem/index.ts",
+      "src/lessons/hypothesis-testing/index.ts",
+      "src/lessons/linear-regression/index.ts",
+      "src/lessons/logistic-regression/index.ts",
+      "src/lessons/eigenvectors/index.ts",
+      "src/lessons/gradient-descent/index.ts",
+      "src/dev/gallery/index.tsx",
+      "src/app/LessonPage.tsx"
+    ],
+    "css": [
+      "assets/index-CY8txhWl.css"
+    ],
+    "assets": [
+      "assets/inter-cyrillic-ext-wght-normal-BOeWTOD4.woff2",
+      "assets/inter-cyrillic-wght-normal-DqGufNeO.woff2",
+      "assets/inter-greek-ext-wght-normal-DlzME5K_.woff2",
+      "assets/inter-greek-wght-normal-CkhJZR-_.woff2",
+      "assets/inter-vietnamese-wght-normal-CBcvBZtf.woff2",
+      "assets/inter-latin-ext-wght-normal-DO1Apj_S.woff2",
+      "assets/inter-latin-wght-normal-Dx4kXJAl.woff2"
+    ]
+  },
+  "node_modules/@fontsource-variable/inter/files/inter-cyrillic-ext-wght-normal.woff2": {
+    "file": "assets/inter-cyrillic-ext-wght-normal-BOeWTOD4.woff2",
+    "src": "node_modules/@fontsource-variable/inter/files/inter-cyrillic-ext-wght-normal.woff2"
+  },
+  "node_modules/@fontsource-variable/inter/files/inter-cyrillic-wght-normal.woff2": {
+    "file": "assets/inter-cyrillic-wght-normal-DqGufNeO.woff2",
+    "src": "node_modules/@fontsource-variable/inter/files/inter-cyrillic-wght-normal.woff2"
+  },
+  "node_modules/@fontsource-variable/inter/files/inter-greek-ext-wght-normal.woff2": {
+    "file": "assets/inter-greek-ext-wght-normal-DlzME5K_.woff2",
+    "src": "node_modules/@fontsource-variable/inter/files/inter-greek-ext-wght-normal.woff2"
+  },
+  "node_modules/@fontsource-variable/inter/files/inter-greek-wght-normal.woff2": {
+    "file": "assets/inter-greek-wght-normal-CkhJZR-_.woff2",
+    "src": "node_modules/@fontsource-variable/inter/files/inter-greek-wght-normal.woff2"
+  },
+  "node_modules/@fontsource-variable/inter/files/inter-latin-ext-wght-normal.woff2": {
+    "file": "assets/inter-latin-ext-wght-normal-DO1Apj_S.woff2",
+    "src": "node_modules/@fontsource-variable/inter/files/inter-latin-ext-wght-normal.woff2"
+  },
+  "node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2": {
+    "file": "assets/inter-latin-wght-normal-Dx4kXJAl.woff2",
+    "src": "node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2"
+  },
+  "node_modules/@fontsource-variable/inter/files/inter-vietnamese-wght-normal.woff2": {
+    "file": "assets/inter-vietnamese-wght-normal-CBcvBZtf.woff2",
+    "src": "node_modules/@fontsource-variable/inter/files/inter-vietnamese-wght-normal.woff2"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_AMS-Regular.ttf": {
+    "file": "assets/KaTeX_AMS-Regular-DRggAlZN.ttf",
+    "src": "node_modules/katex/dist/fonts/KaTeX_AMS-Regular.ttf"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_AMS-Regular.woff": {
+    "file": "assets/KaTeX_AMS-Regular-DMm9YOAa.woff",
+    "src": "node_modules/katex/dist/fonts/KaTeX_AMS-Regular.woff"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_AMS-Regular.woff2": {
+    "file": "assets/KaTeX_AMS-Regular-BQhdFMY1.woff2",
+    "src": "node_modules/katex/dist/fonts/KaTeX_AMS-Regular.woff2"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Caligraphic-Bold.ttf": {
+    "file": "assets/KaTeX_Caligraphic-Bold-ATXxdsX0.ttf",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Caligraphic-Bold.ttf"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Caligraphic-Bold.woff": {
+    "file": "assets/KaTeX_Caligraphic-Bold-BEiXGLvX.woff",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Caligraphic-Bold.woff"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Caligraphic-Bold.woff2": {
+    "file": "assets/KaTeX_Caligraphic-Bold-Dq_IR9rO.woff2",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Caligraphic-Bold.woff2"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Caligraphic-Regular.ttf": {
+    "file": "assets/KaTeX_Caligraphic-Regular-wX97UBjC.ttf",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Caligraphic-Regular.ttf"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Caligraphic-Regular.woff": {
+    "file": "assets/KaTeX_Caligraphic-Regular-CTRA-rTL.woff",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Caligraphic-Regular.woff"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Caligraphic-Regular.woff2": {
+    "file": "assets/KaTeX_Caligraphic-Regular-Di6jR-x-.woff2",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Caligraphic-Regular.woff2"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Fraktur-Bold.ttf": {
+    "file": "assets/KaTeX_Fraktur-Bold-BdnERNNW.ttf",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Fraktur-Bold.ttf"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Fraktur-Bold.woff": {
+    "file": "assets/KaTeX_Fraktur-Bold-BsDP51OF.woff",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Fraktur-Bold.woff"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Fraktur-Bold.woff2": {
+    "file": "assets/KaTeX_Fraktur-Bold-CL6g_b3V.woff2",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Fraktur-Bold.woff2"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Fraktur-Regular.ttf": {
+    "file": "assets/KaTeX_Fraktur-Regular-CB_wures.ttf",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Fraktur-Regular.ttf"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Fraktur-Regular.woff": {
+    "file": "assets/KaTeX_Fraktur-Regular-Dxdc4cR9.woff",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Fraktur-Regular.woff"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Fraktur-Regular.woff2": {
+    "file": "assets/KaTeX_Fraktur-Regular-CTYiF6lA.woff2",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Fraktur-Regular.woff2"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Main-Bold.ttf": {
+    "file": "assets/KaTeX_Main-Bold-waoOVXN0.ttf",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Main-Bold.ttf"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Main-Bold.woff": {
+    "file": "assets/KaTeX_Main-Bold-Jm3AIy58.woff",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Main-Bold.woff"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Main-Bold.woff2": {
+    "file": "assets/KaTeX_Main-Bold-Cx986IdX.woff2",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Main-Bold.woff2"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Main-BoldItalic.ttf": {
+    "file": "assets/KaTeX_Main-BoldItalic-DzxPMmG6.ttf",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Main-BoldItalic.ttf"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Main-BoldItalic.woff": {
+    "file": "assets/KaTeX_Main-BoldItalic-SpSLRI95.woff",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Main-BoldItalic.woff"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Main-BoldItalic.woff2": {
+    "file": "assets/KaTeX_Main-BoldItalic-DxDJ3AOS.woff2",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Main-BoldItalic.woff2"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Main-Italic.ttf": {
+    "file": "assets/KaTeX_Main-Italic-3WenGoN9.ttf",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Main-Italic.ttf"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Main-Italic.woff": {
+    "file": "assets/KaTeX_Main-Italic-BMLOBm91.woff",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Main-Italic.woff"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Main-Italic.woff2": {
+    "file": "assets/KaTeX_Main-Italic-NWA7e6Wa.woff2",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Main-Italic.woff2"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Main-Regular.ttf": {
+    "file": "assets/KaTeX_Main-Regular-ypZvNtVU.ttf",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Main-Regular.ttf"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Main-Regular.woff": {
+    "file": "assets/KaTeX_Main-Regular-Dr94JaBh.woff",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Main-Regular.woff"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Main-Regular.woff2": {
+    "file": "assets/KaTeX_Main-Regular-B22Nviop.woff2",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Main-Regular.woff2"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Math-BoldItalic.ttf": {
+    "file": "assets/KaTeX_Math-BoldItalic-B3XSjfu4.ttf",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Math-BoldItalic.ttf"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Math-BoldItalic.woff": {
+    "file": "assets/KaTeX_Math-BoldItalic-iY-2wyZ7.woff",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Math-BoldItalic.woff"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Math-BoldItalic.woff2": {
+    "file": "assets/KaTeX_Math-BoldItalic-CZnvNsCZ.woff2",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Math-BoldItalic.woff2"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Math-Italic.ttf": {
+    "file": "assets/KaTeX_Math-Italic-flOr_0UB.ttf",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Math-Italic.ttf"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Math-Italic.woff": {
+    "file": "assets/KaTeX_Math-Italic-DA0__PXp.woff",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Math-Italic.woff"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Math-Italic.woff2": {
+    "file": "assets/KaTeX_Math-Italic-t53AETM-.woff2",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Math-Italic.woff2"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_SansSerif-Bold.ttf": {
+    "file": "assets/KaTeX_SansSerif-Bold-CFMepnvq.ttf",
+    "src": "node_modules/katex/dist/fonts/KaTeX_SansSerif-Bold.ttf"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_SansSerif-Bold.woff": {
+    "file": "assets/KaTeX_SansSerif-Bold-DbIhKOiC.woff",
+    "src": "node_modules/katex/dist/fonts/KaTeX_SansSerif-Bold.woff"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_SansSerif-Bold.woff2": {
+    "file": "assets/KaTeX_SansSerif-Bold-D1sUS0GD.woff2",
+    "src": "node_modules/katex/dist/fonts/KaTeX_SansSerif-Bold.woff2"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_SansSerif-Italic.ttf": {
+    "file": "assets/KaTeX_SansSerif-Italic-YYjJ1zSn.ttf",
+    "src": "node_modules/katex/dist/fonts/KaTeX_SansSerif-Italic.ttf"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_SansSerif-Italic.woff": {
+    "file": "assets/KaTeX_SansSerif-Italic-DN2j7dab.woff",
+    "src": "node_modules/katex/dist/fonts/KaTeX_SansSerif-Italic.woff"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_SansSerif-Italic.woff2": {
+    "file": "assets/KaTeX_SansSerif-Italic-C3H0VqGB.woff2",
+    "src": "node_modules/katex/dist/fonts/KaTeX_SansSerif-Italic.woff2"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_SansSerif-Regular.ttf": {
+    "file": "assets/KaTeX_SansSerif-Regular-BNo7hRIc.ttf",
+    "src": "node_modules/katex/dist/fonts/KaTeX_SansSerif-Regular.ttf"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_SansSerif-Regular.woff": {
+    "file": "assets/KaTeX_SansSerif-Regular-CS6fqUqJ.woff",
+    "src": "node_modules/katex/dist/fonts/KaTeX_SansSerif-Regular.woff"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_SansSerif-Regular.woff2": {
+    "file": "assets/KaTeX_SansSerif-Regular-DDBCnlJ7.woff2",
+    "src": "node_modules/katex/dist/fonts/KaTeX_SansSerif-Regular.woff2"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Script-Regular.ttf": {
+    "file": "assets/KaTeX_Script-Regular-C5JkGWo-.ttf",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Script-Regular.ttf"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Script-Regular.woff": {
+    "file": "assets/KaTeX_Script-Regular-D5yQViql.woff",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Script-Regular.woff"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Script-Regular.woff2": {
+    "file": "assets/KaTeX_Script-Regular-D3wIWfF6.woff2",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Script-Regular.woff2"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Size1-Regular.ttf": {
+    "file": "assets/KaTeX_Size1-Regular-Dbsnue_I.ttf",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Size1-Regular.ttf"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Size1-Regular.woff": {
+    "file": "assets/KaTeX_Size1-Regular-C195tn64.woff",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Size1-Regular.woff"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Size1-Regular.woff2": {
+    "file": "assets/KaTeX_Size1-Regular-mCD8mA8B.woff2",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Size1-Regular.woff2"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Size2-Regular.ttf": {
+    "file": "assets/KaTeX_Size2-Regular-B7gKUWhC.ttf",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Size2-Regular.ttf"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Size2-Regular.woff": {
+    "file": "assets/KaTeX_Size2-Regular-oD1tc_U0.woff",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Size2-Regular.woff"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Size2-Regular.woff2": {
+    "file": "assets/KaTeX_Size2-Regular-Dy4dx90m.woff2",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Size2-Regular.woff2"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Size3-Regular.ttf": {
+    "file": "assets/KaTeX_Size3-Regular-DgpXs0kz.ttf",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Size3-Regular.ttf"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Size3-Regular.woff": {
+    "file": "assets/KaTeX_Size3-Regular-CTq5MqoE.woff",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Size3-Regular.woff"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Size4-Regular.ttf": {
+    "file": "assets/KaTeX_Size4-Regular-DWFBv043.ttf",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Size4-Regular.ttf"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Size4-Regular.woff": {
+    "file": "assets/KaTeX_Size4-Regular-BF-4gkZK.woff",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Size4-Regular.woff"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Size4-Regular.woff2": {
+    "file": "assets/KaTeX_Size4-Regular-Dl5lxZxV.woff2",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Size4-Regular.woff2"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Typewriter-Regular.ttf": {
+    "file": "assets/KaTeX_Typewriter-Regular-D3Ib7_Hf.ttf",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Typewriter-Regular.ttf"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Typewriter-Regular.woff": {
+    "file": "assets/KaTeX_Typewriter-Regular-C0xS9mPB.woff",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Typewriter-Regular.woff"
+  },
+  "node_modules/katex/dist/fonts/KaTeX_Typewriter-Regular.woff2": {
+    "file": "assets/KaTeX_Typewriter-Regular-CO6r4hn1.woff2",
+    "src": "node_modules/katex/dist/fonts/KaTeX_Typewriter-Regular.woff2"
+  },
+  "src/app/LessonPage.tsx": {
+    "file": "assets/LessonPage-DKQTU4Xd.js",
+    "name": "LessonPage",
+    "src": "src/app/LessonPage.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-XKyaHtl9.js",
+      "_vendor-react-CVpX7CXv.js",
+      "_vendor-motion-C0j0LjH1.js",
+      "index.html",
+      "_protocol-pK11iYk6.js",
+      "_Label-CIG7xFYZ.js",
+      "_motion-TNu1k6Qd.js",
+      "_vendor-3d-C5O2Be0I.js",
+      "_quality-cBntSlcS.js",
+      "_Tex-DKQsFRc2.js",
+      "_ParamControls-2lByGag4.js"
+    ],
+    "dynamicImports": [
+      "src/compute/client.ts",
+      "src/player/dev/DevOverlay.tsx"
+    ]
+  },
+  "src/compute/client.ts": {
+    "file": "assets/client-IMGmyVIZ.js",
+    "name": "client",
+    "src": "src/compute/client.ts",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/worker-T5IFy71v.js"
+    ]
+  },
+  "src/dev/gallery/index.tsx": {
+    "file": "assets/gallery-DnP6gpIs.js",
+    "name": "gallery",
+    "src": "src/dev/gallery/index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-XKyaHtl9.js",
+      "_vendor-react-CVpX7CXv.js",
+      "_Label-CIG7xFYZ.js",
+      "_rng-Bl65VPxH.js",
+      "_Axes-DuIqGiDY.js",
+      "_DataPoints-BIsEPzEE.js",
+      "_Grid-C7syWaZ0.js",
+      "_HeightField-Dz7208lk.js",
+      "_LineChart-DRtdFFe3.js",
+      "_ParametricCurve-akBbQx6K.js",
+      "_Plane-CDQfHUbZ.js",
+      "_Surface-CKwA0FSx.js",
+      "_vendor-3d-C5O2Be0I.js",
+      "_lesson-BfEMwmys.js",
+      "_ramps-DQrcJ7H7.js",
+      "_Vector-DdBzR8FB.js"
+    ]
+  },
+  "src/lessons/backpropagation/index.ts": {
+    "file": "assets/backpropagation-HMD03Acf.js",
+    "name": "backpropagation",
+    "src": "src/lessons/backpropagation/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-XKyaHtl9.js",
+      "_lesson-BfEMwmys.js",
+      "_Label-CIG7xFYZ.js",
+      "_Tex-DKQsFRc2.js",
+      "_vendor-react-CVpX7CXv.js",
+      "_LineChart-DRtdFFe3.js",
+      "_datasets-ClOmvkVi.js",
+      "_grid-CqSBVIUk.js",
+      "_mlp-DvujkoY_.js",
+      "_protocol-pK11iYk6.js",
+      "index.html",
+      "_vendor-3d-C5O2Be0I.js",
+      "_Axes-DuIqGiDY.js",
+      "_DataPoints-BIsEPzEE.js",
+      "_gridMesh-iwyOEmjT.js",
+      "_HeightField-Dz7208lk.js",
+      "_Pulse-BkZUKSRT.js"
+    ]
+  },
+  "src/lessons/bayes-theorem/index.ts": {
+    "file": "assets/bayes-theorem-ntIiA4HT.js",
+    "name": "bayes-theorem",
+    "src": "src/lessons/bayes-theorem/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-XKyaHtl9.js",
+      "_lesson-BfEMwmys.js",
+      "_Label-CIG7xFYZ.js",
+      "_Tex-DKQsFRc2.js",
+      "_vendor-react-CVpX7CXv.js",
+      "_stats-BgqZGmc2.js",
+      "index.html",
+      "_DataPoints-BIsEPzEE.js",
+      "_Rects-Cfn0Ruxc.js"
+    ]
+  },
+  "src/lessons/decision-trees/index.ts": {
+    "file": "assets/decision-trees-CWvJ05nx.js",
+    "name": "decision-trees",
+    "src": "src/lessons/decision-trees/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-XKyaHtl9.js",
+      "_lesson-BfEMwmys.js",
+      "_Label-CIG7xFYZ.js",
+      "_math-DKLy3bTD.js",
+      "_Tex-DKQsFRc2.js",
+      "_vendor-react-CVpX7CXv.js",
+      "_datasets-ClOmvkVi.js",
+      "_Axes-DuIqGiDY.js",
+      "_DataPoints-BIsEPzEE.js",
+      "_HeightField-Dz7208lk.js",
+      "_vendor-3d-C5O2Be0I.js",
+      "_motion-TNu1k6Qd.js",
+      "_aces-C4Cat0Es.js",
+      "_LineChart-DRtdFFe3.js",
+      "_ramps-DQrcJ7H7.js",
+      "_TreeDiagram-DfBDswCI.js",
+      "index.html"
+    ]
+  },
+  "src/lessons/eigenvectors/index.ts": {
+    "file": "assets/eigenvectors-CaDuALYj.js",
+    "name": "eigenvectors",
+    "src": "src/lessons/eigenvectors/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-XKyaHtl9.js",
+      "_lesson-BfEMwmys.js",
+      "_Label-CIG7xFYZ.js",
+      "_linalg-DmIHl5-7.js",
+      "_ParamControls-2lByGag4.js",
+      "_vendor-react-CVpX7CXv.js",
+      "_Tex-DKQsFRc2.js",
+      "index.html",
+      "_Axes-DuIqGiDY.js",
+      "_DataPoints-BIsEPzEE.js",
+      "_Vector-DdBzR8FB.js"
+    ]
+  },
+  "src/lessons/galton-clt/index.ts": {
+    "file": "assets/galton-clt-Ci0ek6Y_.js",
+    "name": "galton-clt",
+    "src": "src/lessons/galton-clt/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-XKyaHtl9.js",
+      "_lesson-BfEMwmys.js",
+      "_Label-CIG7xFYZ.js",
+      "_Tex-DKQsFRc2.js",
+      "_vendor-react-CVpX7CXv.js",
+      "_probability-CTQhkNtq.js",
+      "index.html",
+      "_vendor-3d-C5O2Be0I.js",
+      "_DataPoints-BIsEPzEE.js",
+      "_ParametricCurve-akBbQx6K.js",
+      "_Plane-CDQfHUbZ.js"
+    ]
+  },
+  "src/lessons/gradient-boosting/index.ts": {
+    "file": "assets/gradient-boosting-Y3MQefWx.js",
+    "name": "gradient-boosting",
+    "src": "src/lessons/gradient-boosting/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-XKyaHtl9.js",
+      "_lesson-BfEMwmys.js",
+      "_Label-CIG7xFYZ.js",
+      "_Tex-DKQsFRc2.js",
+      "_vendor-react-CVpX7CXv.js",
+      "_LineChart-DRtdFFe3.js",
+      "_ramps-DQrcJ7H7.js",
+      "_TreeDiagram-DfBDswCI.js",
+      "_datasets-ClOmvkVi.js",
+      "_grid-CqSBVIUk.js",
+      "_metrics-CtRY8EK2.js",
+      "_protocol-pK11iYk6.js",
+      "index.html",
+      "_Axes-DuIqGiDY.js",
+      "_DataPoints-BIsEPzEE.js",
+      "_HeightField-Dz7208lk.js"
+    ]
+  },
+  "src/lessons/gradient-descent/index.ts": {
+    "file": "assets/gradient-descent-hRmJQQlz.js",
+    "name": "gradient-descent",
+    "src": "src/lessons/gradient-descent/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-XKyaHtl9.js",
+      "_lesson-BfEMwmys.js",
+      "_Label-CIG7xFYZ.js",
+      "_Tex-DKQsFRc2.js",
+      "_vendor-react-CVpX7CXv.js",
+      "_optim-7JFOZB4l.js",
+      "index.html",
+      "_grid-CqSBVIUk.js",
+      "_gridMesh-iwyOEmjT.js",
+      "_DataPoints-BIsEPzEE.js",
+      "_HeightField-Dz7208lk.js",
+      "_ParametricCurve-akBbQx6K.js",
+      "_Point-lHlOHJJP.js",
+      "_Vector-DdBzR8FB.js"
+    ]
+  },
+  "src/lessons/hypothesis-testing/index.ts": {
+    "file": "assets/hypothesis-testing-4aC1GUYU.js",
+    "name": "hypothesis-testing",
+    "src": "src/lessons/hypothesis-testing/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-XKyaHtl9.js",
+      "_lesson-BfEMwmys.js",
+      "_ParamControls-2lByGag4.js",
+      "_Label-CIG7xFYZ.js",
+      "_vendor-react-CVpX7CXv.js",
+      "_Tex-DKQsFRc2.js",
+      "_probability-CTQhkNtq.js",
+      "_stats-BgqZGmc2.js",
+      "index.html",
+      "_DataPoints-BIsEPzEE.js",
+      "_Point-lHlOHJJP.js",
+      "_Rects-Cfn0Ruxc.js"
+    ]
+  },
+  "src/lessons/limits-derivative/index.ts": {
+    "file": "assets/limits-derivative-DTwlGgfc.js",
+    "name": "limits-derivative",
+    "src": "src/lessons/limits-derivative/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-XKyaHtl9.js",
+      "_lesson-BfEMwmys.js",
+      "_ParamControls-2lByGag4.js",
+      "_Label-CIG7xFYZ.js",
+      "_vendor-react-CVpX7CXv.js",
+      "_Tex-DKQsFRc2.js",
+      "index.html",
+      "_Axes-DuIqGiDY.js",
+      "_DataPoints-BIsEPzEE.js",
+      "_ParametricCurve-akBbQx6K.js",
+      "_Plane-CDQfHUbZ.js",
+      "_Point-lHlOHJJP.js"
+    ]
+  },
+  "src/lessons/linear-regression/index.ts": {
+    "file": "assets/linear-regression-DDC0UiI_.js",
+    "name": "linear-regression",
+    "src": "src/lessons/linear-regression/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-XKyaHtl9.js",
+      "_lesson-BfEMwmys.js",
+      "_Label-CIG7xFYZ.js",
+      "_Tex-DKQsFRc2.js",
+      "_vendor-react-CVpX7CXv.js",
+      "_datasets-ClOmvkVi.js",
+      "_grid-CqSBVIUk.js",
+      "_optim-7JFOZB4l.js",
+      "_regression-0laLHtP7.js",
+      "index.html",
+      "_gridMesh-iwyOEmjT.js",
+      "_DataPoints-BIsEPzEE.js",
+      "_HeightField-Dz7208lk.js",
+      "_Point-lHlOHJJP.js",
+      "_Rects-Cfn0Ruxc.js"
+    ]
+  },
+  "src/lessons/logistic-regression/index.ts": {
+    "file": "assets/logistic-regression-C99VBxG4.js",
+    "name": "logistic-regression",
+    "src": "src/lessons/logistic-regression/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-XKyaHtl9.js",
+      "_lesson-BfEMwmys.js",
+      "_datasets-ClOmvkVi.js",
+      "_Label-CIG7xFYZ.js",
+      "_Tex-DKQsFRc2.js",
+      "_vendor-react-CVpX7CXv.js",
+      "_regression-0laLHtP7.js",
+      "_grid-CqSBVIUk.js",
+      "_optim-7JFOZB4l.js",
+      "index.html",
+      "_gridMesh-iwyOEmjT.js",
+      "_DataPoints-BIsEPzEE.js",
+      "_HeightField-Dz7208lk.js",
+      "_Point-lHlOHJJP.js",
+      "_Rects-Cfn0Ruxc.js"
+    ]
+  },
+  "src/lessons/matrix-transformations/index.ts": {
+    "file": "assets/matrix-transformations-BBojGsx-.js",
+    "name": "matrix-transformations",
+    "src": "src/lessons/matrix-transformations/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-XKyaHtl9.js",
+      "_lesson-BfEMwmys.js",
+      "_Label-CIG7xFYZ.js",
+      "_linalg-DmIHl5-7.js",
+      "_ParamControls-2lByGag4.js",
+      "_vendor-react-CVpX7CXv.js",
+      "_Tex-DKQsFRc2.js",
+      "index.html",
+      "_vendor-3d-C5O2Be0I.js",
+      "_aces-C4Cat0Es.js",
+      "_Axes-DuIqGiDY.js",
+      "_Grid-C7syWaZ0.js",
+      "_Point-lHlOHJJP.js",
+      "_Vector-DdBzR8FB.js"
+    ]
+  },
+  "src/lessons/mean-variance/index.ts": {
+    "file": "assets/mean-variance-BscvJ218.js",
+    "name": "mean-variance",
+    "src": "src/lessons/mean-variance/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-XKyaHtl9.js",
+      "_lesson-BfEMwmys.js",
+      "_ParamControls-2lByGag4.js",
+      "_Label-CIG7xFYZ.js",
+      "_stats-BgqZGmc2.js",
+      "_vendor-react-CVpX7CXv.js",
+      "_Tex-DKQsFRc2.js",
+      "index.html",
+      "_DataPoints-BIsEPzEE.js",
+      "_Point-lHlOHJJP.js",
+      "_Rects-Cfn0Ruxc.js"
+    ]
+  },
+  "src/lessons/neural-networks/index.ts": {
+    "file": "assets/neural-networks-Bx-VOYGX.js",
+    "name": "neural-networks",
+    "src": "src/lessons/neural-networks/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-XKyaHtl9.js",
+      "_lesson-BfEMwmys.js",
+      "_Tex-DKQsFRc2.js",
+      "_vendor-react-CVpX7CXv.js",
+      "_Label-CIG7xFYZ.js",
+      "_datasets-ClOmvkVi.js",
+      "_grid-CqSBVIUk.js",
+      "_mlp-DvujkoY_.js",
+      "_protocol-pK11iYk6.js",
+      "index.html",
+      "_vendor-3d-C5O2Be0I.js",
+      "_Axes-DuIqGiDY.js",
+      "_DataPoints-BIsEPzEE.js",
+      "_gridMesh-iwyOEmjT.js",
+      "_HeightField-Dz7208lk.js",
+      "_Pulse-BkZUKSRT.js",
+      "_Point-lHlOHJJP.js"
+    ]
+  },
+  "src/lessons/normal-distribution/index.ts": {
+    "file": "assets/normal-distribution-Cpc2x5jX.js",
+    "name": "normal-distribution",
+    "src": "src/lessons/normal-distribution/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-XKyaHtl9.js",
+      "_lesson-BfEMwmys.js",
+      "_Label-CIG7xFYZ.js",
+      "_Tex-DKQsFRc2.js",
+      "_vendor-react-CVpX7CXv.js",
+      "_stats-BgqZGmc2.js",
+      "index.html",
+      "_vendor-3d-C5O2Be0I.js",
+      "_ramps-DQrcJ7H7.js",
+      "_ParametricCurve-akBbQx6K.js",
+      "_Point-lHlOHJJP.js"
+    ]
+  },
+  "src/lessons/random-forests/index.ts": {
+    "file": "assets/random-forests-rvzU0KJP.js",
+    "name": "random-forests",
+    "src": "src/lessons/random-forests/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-XKyaHtl9.js",
+      "_lesson-BfEMwmys.js",
+      "_Tex-DKQsFRc2.js",
+      "_vendor-react-CVpX7CXv.js",
+      "_Label-CIG7xFYZ.js",
+      "_LineChart-DRtdFFe3.js",
+      "_datasets-ClOmvkVi.js",
+      "_metrics-CtRY8EK2.js",
+      "_protocol-pK11iYk6.js",
+      "_math-DKLy3bTD.js",
+      "index.html",
+      "_Axes-DuIqGiDY.js",
+      "_DataPoints-BIsEPzEE.js",
+      "_HeightField-Dz7208lk.js"
+    ]
+  },
+  "src/lessons/the-neuron/index.ts": {
+    "file": "assets/the-neuron-B6gSG6VG.js",
+    "name": "the-neuron",
+    "src": "src/lessons/the-neuron/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-XKyaHtl9.js",
+      "_lesson-BfEMwmys.js",
+      "_Label-CIG7xFYZ.js",
+      "_Tex-DKQsFRc2.js",
+      "_vendor-react-CVpX7CXv.js",
+      "_datasets-ClOmvkVi.js",
+      "_metrics-CtRY8EK2.js",
+      "_mlp-DvujkoY_.js",
+      "index.html",
+      "_Axes-DuIqGiDY.js",
+      "_DataPoints-BIsEPzEE.js",
+      "_Plane-CDQfHUbZ.js",
+      "_Surface-CKwA0FSx.js"
+    ]
+  },
+  "src/lessons/unit-circle/index.ts": {
+    "file": "assets/unit-circle-36ya8ay5.js",
+    "name": "unit-circle",
+    "src": "src/lessons/unit-circle/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-XKyaHtl9.js",
+      "_lesson-BfEMwmys.js",
+      "_Label-CIG7xFYZ.js",
+      "_Tex-DKQsFRc2.js",
+      "_vendor-react-CVpX7CXv.js",
+      "index.html",
+      "_DataPoints-BIsEPzEE.js",
+      "_ParametricCurve-akBbQx6K.js",
+      "_Point-lHlOHJJP.js",
+      "_vendor-3d-C5O2Be0I.js",
+      "_motion-TNu1k6Qd.js"
+    ]
+  },
+  "src/player/dev/DevOverlay.tsx": {
+    "file": "assets/DevOverlay-ChyoL3ww.js",
+    "name": "DevOverlay",
+    "src": "src/player/dev/DevOverlay.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-XKyaHtl9.js",
+      "_vendor-react-CVpX7CXv.js",
+      "src/app/LessonPage.tsx",
+      "_quality-cBntSlcS.js",
+      "_Label-CIG7xFYZ.js"
+    ]
+  }
+}

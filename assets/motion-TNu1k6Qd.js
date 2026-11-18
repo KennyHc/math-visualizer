@@ -1,0 +1,1 @@
+import{S as e}from"./Label-CIG7xFYZ.js";var t=e=>e<.5?4*e*e*e:1-(-2*e+2)**3/2;function n(t=0){let n=e.sceneMin+t/Math.PI*(e.sceneMax-e.sceneMin)*1.5;return Math.min(e.sceneMax,Math.max(e.sceneMin,n))}export{n,t};
