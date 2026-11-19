@@ -1,171 +1,171 @@
 {
-  "_Axes-DuIqGiDY.js": {
-    "file": "assets/Axes-DuIqGiDY.js",
+  "_Axes-CEqDmSNT.js": {
+    "file": "assets/Axes-CEqDmSNT.js",
     "name": "Axes",
     "imports": [
       "_rolldown-runtime-XKyaHtl9.js",
-      "_vendor-react-CVpX7CXv.js",
-      "_Label-CIG7xFYZ.js",
-      "_lesson-BfEMwmys.js"
+      "_vendor-react-B4ifrALW.js",
+      "_Label-pmD9rofU.js",
+      "_lesson-BRPVkjAQ.js"
     ]
   },
-  "_DataPoints-BIsEPzEE.js": {
-    "file": "assets/DataPoints-BIsEPzEE.js",
+  "_DataPoints-Cf7Vw1uj.js": {
+    "file": "assets/DataPoints-Cf7Vw1uj.js",
     "name": "DataPoints",
     "imports": [
       "_rolldown-runtime-XKyaHtl9.js",
-      "_vendor-3d-C5O2Be0I.js",
-      "_vendor-react-CVpX7CXv.js",
-      "_Label-CIG7xFYZ.js"
+      "_vendor-3d-B5WhV1Bj.js",
+      "_vendor-react-B4ifrALW.js",
+      "_Label-pmD9rofU.js"
     ]
   },
-  "_Grid-C7syWaZ0.js": {
-    "file": "assets/Grid-C7syWaZ0.js",
+  "_Grid-DWbqxOt-.js": {
+    "file": "assets/Grid-DWbqxOt-.js",
     "name": "Grid",
     "imports": [
       "_rolldown-runtime-XKyaHtl9.js",
-      "_vendor-react-CVpX7CXv.js",
-      "_vendor-3d-C5O2Be0I.js",
-      "_Label-CIG7xFYZ.js",
-      "_lesson-BfEMwmys.js"
+      "_vendor-react-B4ifrALW.js",
+      "_vendor-3d-B5WhV1Bj.js",
+      "_Label-pmD9rofU.js",
+      "_lesson-BRPVkjAQ.js"
     ]
   },
-  "_HeightField-Dz7208lk.js": {
-    "file": "assets/HeightField-Dz7208lk.js",
+  "_HeightField-Bg_E-3TL.js": {
+    "file": "assets/HeightField-Bg_E-3TL.js",
     "name": "HeightField",
     "imports": [
       "_rolldown-runtime-XKyaHtl9.js",
-      "_vendor-react-CVpX7CXv.js",
-      "_vendor-3d-C5O2Be0I.js",
+      "_vendor-react-B4ifrALW.js",
+      "_vendor-3d-B5WhV1Bj.js",
       "_aces-C4Cat0Es.js",
-      "_gridMesh-iwyOEmjT.js",
-      "_ramps-DQrcJ7H7.js",
-      "_Label-CIG7xFYZ.js",
-      "_lesson-BfEMwmys.js"
+      "_gridMesh-DnkkfI4T.js",
+      "_ramps-B7S6P5F-.js",
+      "_Label-pmD9rofU.js",
+      "_lesson-BRPVkjAQ.js"
     ]
   },
-  "_Label-CIG7xFYZ.js": {
-    "file": "assets/Label-CIG7xFYZ.js",
+  "_Label-pmD9rofU.js": {
+    "file": "assets/Label-pmD9rofU.js",
     "name": "Label",
     "imports": [
       "_rolldown-runtime-XKyaHtl9.js",
-      "_vendor-react-CVpX7CXv.js",
-      "_vendor-3d-C5O2Be0I.js"
+      "_vendor-react-B4ifrALW.js",
+      "_vendor-3d-B5WhV1Bj.js"
     ]
   },
-  "_LineChart-DRtdFFe3.js": {
-    "file": "assets/LineChart-DRtdFFe3.js",
+  "_LineChart-DO2wzv7x.js": {
+    "file": "assets/LineChart-DO2wzv7x.js",
     "name": "LineChart",
     "imports": [
       "_rolldown-runtime-XKyaHtl9.js",
-      "_vendor-react-CVpX7CXv.js",
-      "_Label-CIG7xFYZ.js",
-      "_ramps-DQrcJ7H7.js"
+      "_vendor-react-B4ifrALW.js",
+      "_Label-pmD9rofU.js",
+      "_ramps-B7S6P5F-.js"
     ]
   },
-  "_ParamControls-2lByGag4.js": {
-    "file": "assets/ParamControls-2lByGag4.js",
+  "_ParamControls-BC2dRVVw.js": {
+    "file": "assets/ParamControls-BC2dRVVw.js",
     "name": "ParamControls",
     "imports": [
       "_rolldown-runtime-XKyaHtl9.js",
-      "_vendor-react-CVpX7CXv.js",
-      "_Label-CIG7xFYZ.js",
-      "_Tex-DKQsFRc2.js"
+      "_vendor-react-B4ifrALW.js",
+      "_Label-pmD9rofU.js",
+      "_Tex-CIvlfUE1.js"
     ]
   },
-  "_ParametricCurve-akBbQx6K.js": {
-    "file": "assets/ParametricCurve-akBbQx6K.js",
+  "_ParametricCurve-CIiim-ul.js": {
+    "file": "assets/ParametricCurve-CIiim-ul.js",
     "name": "ParametricCurve",
     "imports": [
-      "_lesson-BfEMwmys.js",
-      "_ramps-DQrcJ7H7.js",
-      "_vendor-react-CVpX7CXv.js"
+      "_lesson-BRPVkjAQ.js",
+      "_ramps-B7S6P5F-.js",
+      "_vendor-react-B4ifrALW.js"
     ]
   },
-  "_Plane-CDQfHUbZ.js": {
-    "file": "assets/Plane-CDQfHUbZ.js",
+  "_Plane-D-3lEkyk.js": {
+    "file": "assets/Plane-D-3lEkyk.js",
     "name": "Plane",
     "imports": [
       "_rolldown-runtime-XKyaHtl9.js",
-      "_vendor-react-CVpX7CXv.js",
-      "_vendor-3d-C5O2Be0I.js"
+      "_vendor-react-B4ifrALW.js",
+      "_vendor-3d-B5WhV1Bj.js"
     ]
   },
-  "_Point-lHlOHJJP.js": {
-    "file": "assets/Point-lHlOHJJP.js",
+  "_Point-DhUvlzBD.js": {
+    "file": "assets/Point-DhUvlzBD.js",
     "name": "Point",
     "imports": [
       "_rolldown-runtime-XKyaHtl9.js",
-      "_vendor-3d-C5O2Be0I.js",
-      "_vendor-react-CVpX7CXv.js",
-      "_Label-CIG7xFYZ.js",
-      "_lesson-BfEMwmys.js"
+      "_vendor-3d-B5WhV1Bj.js",
+      "_vendor-react-B4ifrALW.js",
+      "_Label-pmD9rofU.js",
+      "_lesson-BRPVkjAQ.js"
     ]
   },
-  "_Pulse-BkZUKSRT.js": {
-    "file": "assets/Pulse-BkZUKSRT.js",
+  "_Pulse-BA89LcDw.js": {
+    "file": "assets/Pulse-BA89LcDw.js",
     "name": "Pulse",
     "imports": [
       "_rolldown-runtime-XKyaHtl9.js",
-      "_vendor-react-CVpX7CXv.js",
-      "_Label-CIG7xFYZ.js",
-      "_vendor-3d-C5O2Be0I.js",
-      "_lesson-BfEMwmys.js",
-      "_ramps-DQrcJ7H7.js"
+      "_vendor-react-B4ifrALW.js",
+      "_Label-pmD9rofU.js",
+      "_vendor-3d-B5WhV1Bj.js",
+      "_lesson-BRPVkjAQ.js",
+      "_ramps-B7S6P5F-.js"
     ]
   },
-  "_Rects-Cfn0Ruxc.js": {
-    "file": "assets/Rects-Cfn0Ruxc.js",
+  "_Rects-CaGZSjEN.js": {
+    "file": "assets/Rects-CaGZSjEN.js",
     "name": "Rects",
     "imports": [
       "_rolldown-runtime-XKyaHtl9.js",
-      "_vendor-react-CVpX7CXv.js",
-      "_vendor-3d-C5O2Be0I.js",
-      "_lesson-BfEMwmys.js",
-      "_ramps-DQrcJ7H7.js"
+      "_vendor-react-B4ifrALW.js",
+      "_vendor-3d-B5WhV1Bj.js",
+      "_lesson-BRPVkjAQ.js",
+      "_ramps-B7S6P5F-.js"
     ]
   },
-  "_Surface-CKwA0FSx.js": {
-    "file": "assets/Surface-CKwA0FSx.js",
+  "_Surface-BZfmSOxh.js": {
+    "file": "assets/Surface-BZfmSOxh.js",
     "name": "Surface",
     "imports": [
       "_rolldown-runtime-XKyaHtl9.js",
-      "_vendor-3d-C5O2Be0I.js",
-      "_vendor-react-CVpX7CXv.js",
-      "_Label-CIG7xFYZ.js",
-      "_quality-cBntSlcS.js",
-      "_lesson-BfEMwmys.js",
-      "_gridMesh-iwyOEmjT.js",
-      "_ramps-DQrcJ7H7.js"
+      "_vendor-3d-B5WhV1Bj.js",
+      "_vendor-react-B4ifrALW.js",
+      "_Label-pmD9rofU.js",
+      "_quality-BevRpHDh.js",
+      "_lesson-BRPVkjAQ.js",
+      "_gridMesh-DnkkfI4T.js",
+      "_ramps-B7S6P5F-.js"
     ]
   },
-  "_Tex-DKQsFRc2.js": {
-    "file": "assets/Tex-DKQsFRc2.js",
+  "_Tex-CIvlfUE1.js": {
+    "file": "assets/Tex-CIvlfUE1.js",
     "name": "Tex",
     "imports": [
       "_rolldown-runtime-XKyaHtl9.js",
       "_vendor-katex-dleUf-TG.js",
-      "_vendor-react-CVpX7CXv.js"
+      "_vendor-react-B4ifrALW.js"
     ]
   },
-  "_TreeDiagram-DfBDswCI.js": {
-    "file": "assets/TreeDiagram-DfBDswCI.js",
+  "_TreeDiagram-CrfEa7-X.js": {
+    "file": "assets/TreeDiagram-CrfEa7-X.js",
     "name": "TreeDiagram",
     "imports": [
       "_rolldown-runtime-XKyaHtl9.js",
-      "_vendor-react-CVpX7CXv.js",
-      "_Label-CIG7xFYZ.js"
+      "_vendor-react-B4ifrALW.js",
+      "_Label-pmD9rofU.js"
     ]
   },
-  "_Vector-DdBzR8FB.js": {
-    "file": "assets/Vector-DdBzR8FB.js",
+  "_Vector-DqU7dEMW.js": {
+    "file": "assets/Vector-DqU7dEMW.js",
     "name": "Vector",
     "imports": [
       "_rolldown-runtime-XKyaHtl9.js",
-      "_vendor-react-CVpX7CXv.js",
-      "_vendor-3d-C5O2Be0I.js",
-      "_Label-CIG7xFYZ.js",
-      "_lesson-BfEMwmys.js"
+      "_vendor-react-B4ifrALW.js",
+      "_vendor-3d-B5WhV1Bj.js",
+      "_Label-pmD9rofU.js",
+      "_lesson-BRPVkjAQ.js"
     ]
   },
   "_aces-C4Cat0Es.js": {
@@ -179,6 +179,10 @@
       "_rng-Bl65VPxH.js"
     ]
   },
+  "_glossary-CV89ubde.js": {
+    "file": "assets/glossary-CV89ubde.js",
+    "name": "glossary"
+  },
   "_grid-CqSBVIUk.js": {
     "file": "assets/grid-CqSBVIUk.js",
     "name": "grid",
@@ -186,43 +190,47 @@
       "_mlp-DvujkoY_.js"
     ]
   },
-  "_gridMesh-iwyOEmjT.js": {
-    "file": "assets/gridMesh-iwyOEmjT.js",
+  "_gridMesh-DnkkfI4T.js": {
+    "file": "assets/gridMesh-DnkkfI4T.js",
     "name": "gridMesh",
     "imports": [
       "_rolldown-runtime-XKyaHtl9.js",
-      "_vendor-react-CVpX7CXv.js",
-      "_vendor-3d-C5O2Be0I.js",
+      "_vendor-react-B4ifrALW.js",
+      "_vendor-3d-B5WhV1Bj.js",
       "_aces-C4Cat0Es.js"
     ]
   },
-  "_lesson-BfEMwmys.js": {
-    "file": "assets/lesson-BfEMwmys.js",
+  "_lesson-BRPVkjAQ.js": {
+    "file": "assets/lesson-BRPVkjAQ.js",
     "name": "lesson",
     "imports": [
       "_rolldown-runtime-XKyaHtl9.js",
-      "_vendor-react-CVpX7CXv.js",
-      "_Label-CIG7xFYZ.js",
-      "_vendor-3d-C5O2Be0I.js"
+      "_vendor-react-B4ifrALW.js",
+      "_Label-pmD9rofU.js",
+      "_vendor-3d-B5WhV1Bj.js"
     ]
   },
-  "_linalg-DmIHl5-7.js": {
-    "file": "assets/linalg-DmIHl5-7.js",
+  "_linalg-DRosry7-.js": {
+    "file": "assets/linalg-DRosry7-.js",
     "name": "linalg",
     "imports": [
       "_rolldown-runtime-XKyaHtl9.js",
-      "_vendor-react-CVpX7CXv.js",
-      "_Label-CIG7xFYZ.js"
+      "_vendor-react-B4ifrALW.js",
+      "_Label-pmD9rofU.js"
     ]
   },
-  "_math-DKLy3bTD.js": {
-    "file": "assets/math-DKLy3bTD.js",
+  "_math-Zxk9iPEm.js": {
+    "file": "assets/math-Zxk9iPEm.js",
     "name": "math",
     "imports": [
       "_datasets-ClOmvkVi.js",
-      "_Label-CIG7xFYZ.js",
+      "_Label-pmD9rofU.js",
       "_metrics-CtRY8EK2.js"
     ]
+  },
+  "_metas-BX53p_cs.js": {
+    "file": "assets/metas-BX53p_cs.js",
+    "name": "metas"
   },
   "_metrics-CtRY8EK2.js": {
     "file": "assets/metrics-CtRY8EK2.js",
@@ -235,11 +243,11 @@
       "_rng-Bl65VPxH.js"
     ]
   },
-  "_motion-TNu1k6Qd.js": {
-    "file": "assets/motion-TNu1k6Qd.js",
+  "_motion-BORbTR24.js": {
+    "file": "assets/motion-BORbTR24.js",
     "name": "motion",
     "imports": [
-      "_Label-CIG7xFYZ.js"
+      "_Label-pmD9rofU.js"
     ]
   },
   "_optim-7JFOZB4l.js": {
@@ -260,18 +268,18 @@
       "_rng-Bl65VPxH.js"
     ]
   },
-  "_quality-cBntSlcS.js": {
-    "file": "assets/quality-cBntSlcS.js",
+  "_quality-BevRpHDh.js": {
+    "file": "assets/quality-BevRpHDh.js",
     "name": "quality",
     "imports": [
-      "_vendor-react-CVpX7CXv.js"
+      "_vendor-react-B4ifrALW.js"
     ]
   },
-  "_ramps-DQrcJ7H7.js": {
-    "file": "assets/ramps-DQrcJ7H7.js",
+  "_ramps-B7S6P5F-.js": {
+    "file": "assets/ramps-B7S6P5F-.js",
     "name": "ramps",
     "imports": [
-      "_Label-CIG7xFYZ.js"
+      "_Label-pmD9rofU.js"
     ]
   },
   "_regression-0laLHtP7.js": {
@@ -297,12 +305,12 @@
       "_rng-Bl65VPxH.js"
     ]
   },
-  "_vendor-3d-C5O2Be0I.js": {
-    "file": "assets/vendor-3d-C5O2Be0I.js",
+  "_vendor-3d-B5WhV1Bj.js": {
+    "file": "assets/vendor-3d-B5WhV1Bj.js",
     "name": "vendor-3d",
     "imports": [
       "_rolldown-runtime-XKyaHtl9.js",
-      "_vendor-react-CVpX7CXv.js"
+      "_vendor-react-B4ifrALW.js"
     ]
   },
   "_vendor-katex-CWZfmUOL.css": {
@@ -377,29 +385,30 @@
       "assets/KaTeX_Typewriter-Regular-D3Ib7_Hf.ttf"
     ]
   },
-  "_vendor-motion-C0j0LjH1.js": {
-    "file": "assets/vendor-motion-C0j0LjH1.js",
+  "_vendor-motion-C5w9tC5O.js": {
+    "file": "assets/vendor-motion-C5w9tC5O.js",
     "name": "vendor-motion",
     "imports": [
       "_rolldown-runtime-XKyaHtl9.js",
-      "_vendor-react-CVpX7CXv.js"
+      "_vendor-react-B4ifrALW.js"
     ]
   },
-  "_vendor-react-CVpX7CXv.js": {
-    "file": "assets/vendor-react-CVpX7CXv.js",
+  "_vendor-react-B4ifrALW.js": {
+    "file": "assets/vendor-react-B4ifrALW.js",
     "name": "vendor-react",
     "imports": [
       "_rolldown-runtime-XKyaHtl9.js"
     ]
   },
   "index.html": {
-    "file": "assets/index-CV3LC7Ds.js",
+    "file": "assets/index-C3SGqF9U.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
     "imports": [
       "_rolldown-runtime-XKyaHtl9.js",
-      "_vendor-react-CVpX7CXv.js"
+      "_vendor-react-B4ifrALW.js",
+      "_metas-BX53p_cs.js"
     ],
     "dynamicImports": [
       "src/lessons/matrix-transformations/index.ts",
@@ -421,10 +430,11 @@
       "src/lessons/eigenvectors/index.ts",
       "src/lessons/gradient-descent/index.ts",
       "src/dev/gallery/index.tsx",
+      "src/app/palette/CommandPalette.tsx",
       "src/app/LessonPage.tsx"
     ],
     "css": [
-      "assets/index-CY8txhWl.css"
+      "assets/index-CkIQaZ7y.css"
     ],
     "assets": [
       "assets/inter-cyrillic-ext-wght-normal-BOeWTOD4.woff2",
@@ -433,7 +443,10 @@
       "assets/inter-greek-wght-normal-CkhJZR-_.woff2",
       "assets/inter-vietnamese-wght-normal-CBcvBZtf.woff2",
       "assets/inter-latin-ext-wght-normal-DO1Apj_S.woff2",
-      "assets/inter-latin-wght-normal-Dx4kXJAl.woff2"
+      "assets/inter-latin-wght-normal-Dx4kXJAl.woff2",
+      "assets/mona-sans-vietnamese-wght-normal-DsUdksa4.woff2",
+      "assets/mona-sans-latin-ext-wght-normal-BqSk0Z3x.woff2",
+      "assets/mona-sans-latin-wght-normal-Pz49MTQZ.woff2"
     ]
   },
   "node_modules/@fontsource-variable/inter/files/inter-cyrillic-ext-wght-normal.woff2": {
@@ -463,6 +476,18 @@
   "node_modules/@fontsource-variable/inter/files/inter-vietnamese-wght-normal.woff2": {
     "file": "assets/inter-vietnamese-wght-normal-CBcvBZtf.woff2",
     "src": "node_modules/@fontsource-variable/inter/files/inter-vietnamese-wght-normal.woff2"
+  },
+  "node_modules/@fontsource-variable/mona-sans/files/mona-sans-latin-ext-wght-normal.woff2": {
+    "file": "assets/mona-sans-latin-ext-wght-normal-BqSk0Z3x.woff2",
+    "src": "node_modules/@fontsource-variable/mona-sans/files/mona-sans-latin-ext-wght-normal.woff2"
+  },
+  "node_modules/@fontsource-variable/mona-sans/files/mona-sans-latin-wght-normal.woff2": {
+    "file": "assets/mona-sans-latin-wght-normal-Pz49MTQZ.woff2",
+    "src": "node_modules/@fontsource-variable/mona-sans/files/mona-sans-latin-wght-normal.woff2"
+  },
+  "node_modules/@fontsource-variable/mona-sans/files/mona-sans-vietnamese-wght-normal.woff2": {
+    "file": "assets/mona-sans-vietnamese-wght-normal-DsUdksa4.woff2",
+    "src": "node_modules/@fontsource-variable/mona-sans/files/mona-sans-vietnamese-wght-normal.woff2"
   },
   "node_modules/katex/dist/fonts/KaTeX_AMS-Regular.ttf": {
     "file": "assets/KaTeX_AMS-Regular-DRggAlZN.ttf",
@@ -701,26 +726,39 @@
     "src": "node_modules/katex/dist/fonts/KaTeX_Typewriter-Regular.woff2"
   },
   "src/app/LessonPage.tsx": {
-    "file": "assets/LessonPage-DKQTU4Xd.js",
+    "file": "assets/LessonPage-COZP9xq_.js",
     "name": "LessonPage",
     "src": "src/app/LessonPage.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-XKyaHtl9.js",
-      "_vendor-react-CVpX7CXv.js",
-      "_vendor-motion-C0j0LjH1.js",
+      "_vendor-react-B4ifrALW.js",
+      "_vendor-motion-C5w9tC5O.js",
       "index.html",
       "_protocol-pK11iYk6.js",
-      "_Label-CIG7xFYZ.js",
-      "_motion-TNu1k6Qd.js",
-      "_vendor-3d-C5O2Be0I.js",
-      "_quality-cBntSlcS.js",
-      "_Tex-DKQsFRc2.js",
-      "_ParamControls-2lByGag4.js"
+      "_Label-pmD9rofU.js",
+      "_motion-BORbTR24.js",
+      "_vendor-3d-B5WhV1Bj.js",
+      "_quality-BevRpHDh.js",
+      "_glossary-CV89ubde.js",
+      "_Tex-CIvlfUE1.js",
+      "_ParamControls-BC2dRVVw.js"
     ],
     "dynamicImports": [
       "src/compute/client.ts",
       "src/player/dev/DevOverlay.tsx"
+    ]
+  },
+  "src/app/palette/CommandPalette.tsx": {
+    "file": "assets/CommandPalette-mG9KD204.js",
+    "name": "CommandPalette",
+    "src": "src/app/palette/CommandPalette.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-XKyaHtl9.js",
+      "_vendor-react-B4ifrALW.js",
+      "_glossary-CV89ubde.js",
+      "index.html"
     ]
   },
   "src/compute/client.ts": {
@@ -733,424 +771,425 @@
     ]
   },
   "src/dev/gallery/index.tsx": {
-    "file": "assets/gallery-DnP6gpIs.js",
+    "file": "assets/gallery-fsB_S7Zp.js",
     "name": "gallery",
     "src": "src/dev/gallery/index.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-XKyaHtl9.js",
-      "_vendor-react-CVpX7CXv.js",
-      "_Label-CIG7xFYZ.js",
+      "_vendor-react-B4ifrALW.js",
+      "_Label-pmD9rofU.js",
       "_rng-Bl65VPxH.js",
-      "_Axes-DuIqGiDY.js",
-      "_DataPoints-BIsEPzEE.js",
-      "_Grid-C7syWaZ0.js",
-      "_HeightField-Dz7208lk.js",
-      "_LineChart-DRtdFFe3.js",
-      "_ParametricCurve-akBbQx6K.js",
-      "_Plane-CDQfHUbZ.js",
-      "_Surface-CKwA0FSx.js",
-      "_vendor-3d-C5O2Be0I.js",
-      "_lesson-BfEMwmys.js",
-      "_ramps-DQrcJ7H7.js",
-      "_Vector-DdBzR8FB.js"
+      "_Axes-CEqDmSNT.js",
+      "_DataPoints-Cf7Vw1uj.js",
+      "_Grid-DWbqxOt-.js",
+      "_HeightField-Bg_E-3TL.js",
+      "_LineChart-DO2wzv7x.js",
+      "_ParametricCurve-CIiim-ul.js",
+      "_Plane-D-3lEkyk.js",
+      "_Surface-BZfmSOxh.js",
+      "_vendor-3d-B5WhV1Bj.js",
+      "_lesson-BRPVkjAQ.js",
+      "_ramps-B7S6P5F-.js",
+      "_Vector-DqU7dEMW.js"
     ]
   },
   "src/lessons/backpropagation/index.ts": {
-    "file": "assets/backpropagation-HMD03Acf.js",
+    "file": "assets/backpropagation-CxF9CLGm.js",
     "name": "backpropagation",
     "src": "src/lessons/backpropagation/index.ts",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-XKyaHtl9.js",
-      "_lesson-BfEMwmys.js",
-      "_Label-CIG7xFYZ.js",
-      "_Tex-DKQsFRc2.js",
-      "_vendor-react-CVpX7CXv.js",
-      "_LineChart-DRtdFFe3.js",
+      "_lesson-BRPVkjAQ.js",
+      "_Label-pmD9rofU.js",
+      "_Tex-CIvlfUE1.js",
+      "_vendor-react-B4ifrALW.js",
+      "_LineChart-DO2wzv7x.js",
       "_datasets-ClOmvkVi.js",
       "_grid-CqSBVIUk.js",
       "_mlp-DvujkoY_.js",
       "_protocol-pK11iYk6.js",
-      "index.html",
-      "_vendor-3d-C5O2Be0I.js",
-      "_Axes-DuIqGiDY.js",
-      "_DataPoints-BIsEPzEE.js",
-      "_gridMesh-iwyOEmjT.js",
-      "_HeightField-Dz7208lk.js",
-      "_Pulse-BkZUKSRT.js"
+      "_metas-BX53p_cs.js",
+      "_vendor-3d-B5WhV1Bj.js",
+      "_Axes-CEqDmSNT.js",
+      "_DataPoints-Cf7Vw1uj.js",
+      "_gridMesh-DnkkfI4T.js",
+      "_HeightField-Bg_E-3TL.js",
+      "_Pulse-BA89LcDw.js"
     ]
   },
   "src/lessons/bayes-theorem/index.ts": {
-    "file": "assets/bayes-theorem-ntIiA4HT.js",
+    "file": "assets/bayes-theorem-DKshIRQf.js",
     "name": "bayes-theorem",
     "src": "src/lessons/bayes-theorem/index.ts",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-XKyaHtl9.js",
-      "_lesson-BfEMwmys.js",
-      "_Label-CIG7xFYZ.js",
-      "_Tex-DKQsFRc2.js",
-      "_vendor-react-CVpX7CXv.js",
+      "_lesson-BRPVkjAQ.js",
+      "_Label-pmD9rofU.js",
+      "_Tex-CIvlfUE1.js",
+      "_vendor-react-B4ifrALW.js",
       "_stats-BgqZGmc2.js",
-      "index.html",
-      "_DataPoints-BIsEPzEE.js",
-      "_Rects-Cfn0Ruxc.js"
+      "_metas-BX53p_cs.js",
+      "_DataPoints-Cf7Vw1uj.js",
+      "_Rects-CaGZSjEN.js"
     ]
   },
   "src/lessons/decision-trees/index.ts": {
-    "file": "assets/decision-trees-CWvJ05nx.js",
+    "file": "assets/decision-trees-DMt-0qLl.js",
     "name": "decision-trees",
     "src": "src/lessons/decision-trees/index.ts",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-XKyaHtl9.js",
-      "_lesson-BfEMwmys.js",
-      "_Label-CIG7xFYZ.js",
-      "_math-DKLy3bTD.js",
-      "_Tex-DKQsFRc2.js",
-      "_vendor-react-CVpX7CXv.js",
+      "_lesson-BRPVkjAQ.js",
+      "_Label-pmD9rofU.js",
+      "_math-Zxk9iPEm.js",
+      "_Tex-CIvlfUE1.js",
+      "_vendor-react-B4ifrALW.js",
       "_datasets-ClOmvkVi.js",
-      "_Axes-DuIqGiDY.js",
-      "_DataPoints-BIsEPzEE.js",
-      "_HeightField-Dz7208lk.js",
-      "_vendor-3d-C5O2Be0I.js",
-      "_motion-TNu1k6Qd.js",
+      "_Axes-CEqDmSNT.js",
+      "_DataPoints-Cf7Vw1uj.js",
+      "_HeightField-Bg_E-3TL.js",
+      "_vendor-3d-B5WhV1Bj.js",
+      "_motion-BORbTR24.js",
       "_aces-C4Cat0Es.js",
-      "_LineChart-DRtdFFe3.js",
-      "_ramps-DQrcJ7H7.js",
-      "_TreeDiagram-DfBDswCI.js",
-      "index.html"
+      "_LineChart-DO2wzv7x.js",
+      "_ramps-B7S6P5F-.js",
+      "_TreeDiagram-CrfEa7-X.js",
+      "_metas-BX53p_cs.js"
     ]
   },
   "src/lessons/eigenvectors/index.ts": {
-    "file": "assets/eigenvectors-CaDuALYj.js",
+    "file": "assets/eigenvectors-D3BabW1k.js",
     "name": "eigenvectors",
     "src": "src/lessons/eigenvectors/index.ts",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-XKyaHtl9.js",
-      "_lesson-BfEMwmys.js",
-      "_Label-CIG7xFYZ.js",
-      "_linalg-DmIHl5-7.js",
-      "_ParamControls-2lByGag4.js",
-      "_vendor-react-CVpX7CXv.js",
-      "_Tex-DKQsFRc2.js",
-      "index.html",
-      "_Axes-DuIqGiDY.js",
-      "_DataPoints-BIsEPzEE.js",
-      "_Vector-DdBzR8FB.js"
+      "_lesson-BRPVkjAQ.js",
+      "_Label-pmD9rofU.js",
+      "_linalg-DRosry7-.js",
+      "_ParamControls-BC2dRVVw.js",
+      "_vendor-react-B4ifrALW.js",
+      "_Tex-CIvlfUE1.js",
+      "_metas-BX53p_cs.js",
+      "_Axes-CEqDmSNT.js",
+      "_DataPoints-Cf7Vw1uj.js",
+      "_Vector-DqU7dEMW.js"
     ]
   },
   "src/lessons/galton-clt/index.ts": {
-    "file": "assets/galton-clt-Ci0ek6Y_.js",
+    "file": "assets/galton-clt-OJMdghGm.js",
     "name": "galton-clt",
     "src": "src/lessons/galton-clt/index.ts",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-XKyaHtl9.js",
-      "_lesson-BfEMwmys.js",
-      "_Label-CIG7xFYZ.js",
-      "_Tex-DKQsFRc2.js",
-      "_vendor-react-CVpX7CXv.js",
+      "_lesson-BRPVkjAQ.js",
+      "_Label-pmD9rofU.js",
+      "_Tex-CIvlfUE1.js",
+      "_vendor-react-B4ifrALW.js",
       "_probability-CTQhkNtq.js",
-      "index.html",
-      "_vendor-3d-C5O2Be0I.js",
-      "_DataPoints-BIsEPzEE.js",
-      "_ParametricCurve-akBbQx6K.js",
-      "_Plane-CDQfHUbZ.js"
+      "_metas-BX53p_cs.js",
+      "_vendor-3d-B5WhV1Bj.js",
+      "_DataPoints-Cf7Vw1uj.js",
+      "_ParametricCurve-CIiim-ul.js",
+      "_Plane-D-3lEkyk.js"
     ]
   },
   "src/lessons/gradient-boosting/index.ts": {
-    "file": "assets/gradient-boosting-Y3MQefWx.js",
+    "file": "assets/gradient-boosting-CFz6p4Bl.js",
     "name": "gradient-boosting",
     "src": "src/lessons/gradient-boosting/index.ts",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-XKyaHtl9.js",
-      "_lesson-BfEMwmys.js",
-      "_Label-CIG7xFYZ.js",
-      "_Tex-DKQsFRc2.js",
-      "_vendor-react-CVpX7CXv.js",
-      "_LineChart-DRtdFFe3.js",
-      "_ramps-DQrcJ7H7.js",
-      "_TreeDiagram-DfBDswCI.js",
+      "_lesson-BRPVkjAQ.js",
+      "_Label-pmD9rofU.js",
+      "_Tex-CIvlfUE1.js",
+      "_vendor-react-B4ifrALW.js",
+      "_LineChart-DO2wzv7x.js",
+      "_ramps-B7S6P5F-.js",
+      "_TreeDiagram-CrfEa7-X.js",
       "_datasets-ClOmvkVi.js",
       "_grid-CqSBVIUk.js",
       "_metrics-CtRY8EK2.js",
       "_protocol-pK11iYk6.js",
-      "index.html",
-      "_Axes-DuIqGiDY.js",
-      "_DataPoints-BIsEPzEE.js",
-      "_HeightField-Dz7208lk.js"
+      "_metas-BX53p_cs.js",
+      "_Axes-CEqDmSNT.js",
+      "_DataPoints-Cf7Vw1uj.js",
+      "_HeightField-Bg_E-3TL.js"
     ]
   },
   "src/lessons/gradient-descent/index.ts": {
-    "file": "assets/gradient-descent-hRmJQQlz.js",
+    "file": "assets/gradient-descent-b7cW53sx.js",
     "name": "gradient-descent",
     "src": "src/lessons/gradient-descent/index.ts",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-XKyaHtl9.js",
-      "_lesson-BfEMwmys.js",
-      "_Label-CIG7xFYZ.js",
-      "_Tex-DKQsFRc2.js",
-      "_vendor-react-CVpX7CXv.js",
+      "_lesson-BRPVkjAQ.js",
+      "_Label-pmD9rofU.js",
+      "_Tex-CIvlfUE1.js",
+      "_vendor-react-B4ifrALW.js",
       "_optim-7JFOZB4l.js",
-      "index.html",
+      "_metas-BX53p_cs.js",
       "_grid-CqSBVIUk.js",
-      "_gridMesh-iwyOEmjT.js",
-      "_DataPoints-BIsEPzEE.js",
-      "_HeightField-Dz7208lk.js",
-      "_ParametricCurve-akBbQx6K.js",
-      "_Point-lHlOHJJP.js",
-      "_Vector-DdBzR8FB.js"
+      "_gridMesh-DnkkfI4T.js",
+      "_DataPoints-Cf7Vw1uj.js",
+      "_HeightField-Bg_E-3TL.js",
+      "_ParametricCurve-CIiim-ul.js",
+      "_Point-DhUvlzBD.js",
+      "_Vector-DqU7dEMW.js"
     ]
   },
   "src/lessons/hypothesis-testing/index.ts": {
-    "file": "assets/hypothesis-testing-4aC1GUYU.js",
+    "file": "assets/hypothesis-testing-BT58tAjC.js",
     "name": "hypothesis-testing",
     "src": "src/lessons/hypothesis-testing/index.ts",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-XKyaHtl9.js",
-      "_lesson-BfEMwmys.js",
-      "_ParamControls-2lByGag4.js",
-      "_Label-CIG7xFYZ.js",
-      "_vendor-react-CVpX7CXv.js",
-      "_Tex-DKQsFRc2.js",
+      "_lesson-BRPVkjAQ.js",
+      "_ParamControls-BC2dRVVw.js",
+      "_Label-pmD9rofU.js",
+      "_vendor-react-B4ifrALW.js",
+      "_Tex-CIvlfUE1.js",
       "_probability-CTQhkNtq.js",
       "_stats-BgqZGmc2.js",
-      "index.html",
-      "_DataPoints-BIsEPzEE.js",
-      "_Point-lHlOHJJP.js",
-      "_Rects-Cfn0Ruxc.js"
+      "_metas-BX53p_cs.js",
+      "_DataPoints-Cf7Vw1uj.js",
+      "_Point-DhUvlzBD.js",
+      "_Rects-CaGZSjEN.js"
     ]
   },
   "src/lessons/limits-derivative/index.ts": {
-    "file": "assets/limits-derivative-DTwlGgfc.js",
+    "file": "assets/limits-derivative-W-A8GCL_.js",
     "name": "limits-derivative",
     "src": "src/lessons/limits-derivative/index.ts",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-XKyaHtl9.js",
-      "_lesson-BfEMwmys.js",
-      "_ParamControls-2lByGag4.js",
-      "_Label-CIG7xFYZ.js",
-      "_vendor-react-CVpX7CXv.js",
-      "_Tex-DKQsFRc2.js",
-      "index.html",
-      "_Axes-DuIqGiDY.js",
-      "_DataPoints-BIsEPzEE.js",
-      "_ParametricCurve-akBbQx6K.js",
-      "_Plane-CDQfHUbZ.js",
-      "_Point-lHlOHJJP.js"
+      "_lesson-BRPVkjAQ.js",
+      "_ParamControls-BC2dRVVw.js",
+      "_Label-pmD9rofU.js",
+      "_vendor-react-B4ifrALW.js",
+      "_Tex-CIvlfUE1.js",
+      "_metas-BX53p_cs.js",
+      "_Axes-CEqDmSNT.js",
+      "_DataPoints-Cf7Vw1uj.js",
+      "_ParametricCurve-CIiim-ul.js",
+      "_Plane-D-3lEkyk.js",
+      "_Point-DhUvlzBD.js"
     ]
   },
   "src/lessons/linear-regression/index.ts": {
-    "file": "assets/linear-regression-DDC0UiI_.js",
+    "file": "assets/linear-regression-A1VQYdoN.js",
     "name": "linear-regression",
     "src": "src/lessons/linear-regression/index.ts",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-XKyaHtl9.js",
-      "_lesson-BfEMwmys.js",
-      "_Label-CIG7xFYZ.js",
-      "_Tex-DKQsFRc2.js",
-      "_vendor-react-CVpX7CXv.js",
+      "_lesson-BRPVkjAQ.js",
+      "_Label-pmD9rofU.js",
+      "_Tex-CIvlfUE1.js",
+      "_vendor-react-B4ifrALW.js",
       "_datasets-ClOmvkVi.js",
       "_grid-CqSBVIUk.js",
       "_optim-7JFOZB4l.js",
       "_regression-0laLHtP7.js",
-      "index.html",
-      "_gridMesh-iwyOEmjT.js",
-      "_DataPoints-BIsEPzEE.js",
-      "_HeightField-Dz7208lk.js",
-      "_Point-lHlOHJJP.js",
-      "_Rects-Cfn0Ruxc.js"
+      "_metas-BX53p_cs.js",
+      "_gridMesh-DnkkfI4T.js",
+      "_DataPoints-Cf7Vw1uj.js",
+      "_HeightField-Bg_E-3TL.js",
+      "_Point-DhUvlzBD.js",
+      "_Rects-CaGZSjEN.js"
     ]
   },
   "src/lessons/logistic-regression/index.ts": {
-    "file": "assets/logistic-regression-C99VBxG4.js",
+    "file": "assets/logistic-regression-o-7Z2NOS.js",
     "name": "logistic-regression",
     "src": "src/lessons/logistic-regression/index.ts",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-XKyaHtl9.js",
-      "_lesson-BfEMwmys.js",
+      "_lesson-BRPVkjAQ.js",
       "_datasets-ClOmvkVi.js",
-      "_Label-CIG7xFYZ.js",
-      "_Tex-DKQsFRc2.js",
-      "_vendor-react-CVpX7CXv.js",
+      "_Label-pmD9rofU.js",
+      "_Tex-CIvlfUE1.js",
+      "_vendor-react-B4ifrALW.js",
       "_regression-0laLHtP7.js",
       "_grid-CqSBVIUk.js",
       "_optim-7JFOZB4l.js",
-      "index.html",
-      "_gridMesh-iwyOEmjT.js",
-      "_DataPoints-BIsEPzEE.js",
-      "_HeightField-Dz7208lk.js",
-      "_Point-lHlOHJJP.js",
-      "_Rects-Cfn0Ruxc.js"
+      "_metas-BX53p_cs.js",
+      "_gridMesh-DnkkfI4T.js",
+      "_DataPoints-Cf7Vw1uj.js",
+      "_HeightField-Bg_E-3TL.js",
+      "_Point-DhUvlzBD.js",
+      "_Rects-CaGZSjEN.js"
     ]
   },
   "src/lessons/matrix-transformations/index.ts": {
-    "file": "assets/matrix-transformations-BBojGsx-.js",
+    "file": "assets/matrix-transformations-hF-g_VUS.js",
     "name": "matrix-transformations",
     "src": "src/lessons/matrix-transformations/index.ts",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-XKyaHtl9.js",
-      "_lesson-BfEMwmys.js",
-      "_Label-CIG7xFYZ.js",
-      "_linalg-DmIHl5-7.js",
-      "_ParamControls-2lByGag4.js",
-      "_vendor-react-CVpX7CXv.js",
-      "_Tex-DKQsFRc2.js",
-      "index.html",
-      "_vendor-3d-C5O2Be0I.js",
+      "_lesson-BRPVkjAQ.js",
+      "_Label-pmD9rofU.js",
+      "_linalg-DRosry7-.js",
+      "_ParamControls-BC2dRVVw.js",
+      "_vendor-react-B4ifrALW.js",
+      "_Tex-CIvlfUE1.js",
+      "_metas-BX53p_cs.js",
+      "_vendor-3d-B5WhV1Bj.js",
       "_aces-C4Cat0Es.js",
-      "_Axes-DuIqGiDY.js",
-      "_Grid-C7syWaZ0.js",
-      "_Point-lHlOHJJP.js",
-      "_Vector-DdBzR8FB.js"
+      "_Axes-CEqDmSNT.js",
+      "_Grid-DWbqxOt-.js",
+      "_Point-DhUvlzBD.js",
+      "_Vector-DqU7dEMW.js"
     ]
   },
   "src/lessons/mean-variance/index.ts": {
-    "file": "assets/mean-variance-BscvJ218.js",
+    "file": "assets/mean-variance-BbMR7Guh.js",
     "name": "mean-variance",
     "src": "src/lessons/mean-variance/index.ts",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-XKyaHtl9.js",
-      "_lesson-BfEMwmys.js",
-      "_ParamControls-2lByGag4.js",
-      "_Label-CIG7xFYZ.js",
+      "_lesson-BRPVkjAQ.js",
+      "_ParamControls-BC2dRVVw.js",
+      "_Label-pmD9rofU.js",
       "_stats-BgqZGmc2.js",
-      "_vendor-react-CVpX7CXv.js",
-      "_Tex-DKQsFRc2.js",
-      "index.html",
-      "_DataPoints-BIsEPzEE.js",
-      "_Point-lHlOHJJP.js",
-      "_Rects-Cfn0Ruxc.js"
+      "_vendor-react-B4ifrALW.js",
+      "_Tex-CIvlfUE1.js",
+      "_metas-BX53p_cs.js",
+      "_DataPoints-Cf7Vw1uj.js",
+      "_Point-DhUvlzBD.js",
+      "_Rects-CaGZSjEN.js"
     ]
   },
   "src/lessons/neural-networks/index.ts": {
-    "file": "assets/neural-networks-Bx-VOYGX.js",
+    "file": "assets/neural-networks-CDZ7wrDp.js",
     "name": "neural-networks",
     "src": "src/lessons/neural-networks/index.ts",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-XKyaHtl9.js",
-      "_lesson-BfEMwmys.js",
-      "_Tex-DKQsFRc2.js",
-      "_vendor-react-CVpX7CXv.js",
-      "_Label-CIG7xFYZ.js",
+      "_lesson-BRPVkjAQ.js",
+      "_Tex-CIvlfUE1.js",
+      "_vendor-react-B4ifrALW.js",
+      "_Label-pmD9rofU.js",
       "_datasets-ClOmvkVi.js",
       "_grid-CqSBVIUk.js",
       "_mlp-DvujkoY_.js",
       "_protocol-pK11iYk6.js",
-      "index.html",
-      "_vendor-3d-C5O2Be0I.js",
-      "_Axes-DuIqGiDY.js",
-      "_DataPoints-BIsEPzEE.js",
-      "_gridMesh-iwyOEmjT.js",
-      "_HeightField-Dz7208lk.js",
-      "_Pulse-BkZUKSRT.js",
-      "_Point-lHlOHJJP.js"
+      "_metas-BX53p_cs.js",
+      "_vendor-3d-B5WhV1Bj.js",
+      "_Axes-CEqDmSNT.js",
+      "_DataPoints-Cf7Vw1uj.js",
+      "_gridMesh-DnkkfI4T.js",
+      "_HeightField-Bg_E-3TL.js",
+      "_Pulse-BA89LcDw.js",
+      "_Point-DhUvlzBD.js"
     ]
   },
   "src/lessons/normal-distribution/index.ts": {
-    "file": "assets/normal-distribution-Cpc2x5jX.js",
+    "file": "assets/normal-distribution-UcaLraD7.js",
     "name": "normal-distribution",
     "src": "src/lessons/normal-distribution/index.ts",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-XKyaHtl9.js",
-      "_lesson-BfEMwmys.js",
-      "_Label-CIG7xFYZ.js",
-      "_Tex-DKQsFRc2.js",
-      "_vendor-react-CVpX7CXv.js",
+      "_lesson-BRPVkjAQ.js",
+      "_Label-pmD9rofU.js",
+      "_Tex-CIvlfUE1.js",
+      "_vendor-react-B4ifrALW.js",
       "_stats-BgqZGmc2.js",
-      "index.html",
-      "_vendor-3d-C5O2Be0I.js",
-      "_ramps-DQrcJ7H7.js",
-      "_ParametricCurve-akBbQx6K.js",
-      "_Point-lHlOHJJP.js"
+      "_metas-BX53p_cs.js",
+      "_vendor-3d-B5WhV1Bj.js",
+      "_ramps-B7S6P5F-.js",
+      "_ParametricCurve-CIiim-ul.js",
+      "_Point-DhUvlzBD.js"
     ]
   },
   "src/lessons/random-forests/index.ts": {
-    "file": "assets/random-forests-rvzU0KJP.js",
+    "file": "assets/random-forests-C8a77o-6.js",
     "name": "random-forests",
     "src": "src/lessons/random-forests/index.ts",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-XKyaHtl9.js",
-      "_lesson-BfEMwmys.js",
-      "_Tex-DKQsFRc2.js",
-      "_vendor-react-CVpX7CXv.js",
-      "_Label-CIG7xFYZ.js",
-      "_LineChart-DRtdFFe3.js",
+      "_lesson-BRPVkjAQ.js",
+      "_Tex-CIvlfUE1.js",
+      "_vendor-react-B4ifrALW.js",
+      "_Label-pmD9rofU.js",
+      "_LineChart-DO2wzv7x.js",
       "_datasets-ClOmvkVi.js",
       "_metrics-CtRY8EK2.js",
       "_protocol-pK11iYk6.js",
-      "_math-DKLy3bTD.js",
-      "index.html",
-      "_Axes-DuIqGiDY.js",
-      "_DataPoints-BIsEPzEE.js",
-      "_HeightField-Dz7208lk.js"
+      "_math-Zxk9iPEm.js",
+      "_metas-BX53p_cs.js",
+      "_Axes-CEqDmSNT.js",
+      "_DataPoints-Cf7Vw1uj.js",
+      "_HeightField-Bg_E-3TL.js"
     ]
   },
   "src/lessons/the-neuron/index.ts": {
-    "file": "assets/the-neuron-B6gSG6VG.js",
+    "file": "assets/the-neuron-O2zIJJVK.js",
     "name": "the-neuron",
     "src": "src/lessons/the-neuron/index.ts",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-XKyaHtl9.js",
-      "_lesson-BfEMwmys.js",
-      "_Label-CIG7xFYZ.js",
-      "_Tex-DKQsFRc2.js",
-      "_vendor-react-CVpX7CXv.js",
+      "_lesson-BRPVkjAQ.js",
+      "_Label-pmD9rofU.js",
+      "_Tex-CIvlfUE1.js",
+      "_vendor-react-B4ifrALW.js",
       "_datasets-ClOmvkVi.js",
       "_metrics-CtRY8EK2.js",
       "_mlp-DvujkoY_.js",
-      "index.html",
-      "_Axes-DuIqGiDY.js",
-      "_DataPoints-BIsEPzEE.js",
-      "_Plane-CDQfHUbZ.js",
-      "_Surface-CKwA0FSx.js"
+      "_metas-BX53p_cs.js",
+      "_Axes-CEqDmSNT.js",
+      "_DataPoints-Cf7Vw1uj.js",
+      "_Plane-D-3lEkyk.js",
+      "_Surface-BZfmSOxh.js"
     ]
   },
   "src/lessons/unit-circle/index.ts": {
-    "file": "assets/unit-circle-36ya8ay5.js",
+    "file": "assets/unit-circle-h1YN9auv.js",
     "name": "unit-circle",
     "src": "src/lessons/unit-circle/index.ts",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-XKyaHtl9.js",
-      "_lesson-BfEMwmys.js",
-      "_Label-CIG7xFYZ.js",
-      "_Tex-DKQsFRc2.js",
-      "_vendor-react-CVpX7CXv.js",
-      "index.html",
-      "_DataPoints-BIsEPzEE.js",
-      "_ParametricCurve-akBbQx6K.js",
-      "_Point-lHlOHJJP.js",
-      "_vendor-3d-C5O2Be0I.js",
-      "_motion-TNu1k6Qd.js"
+      "_lesson-BRPVkjAQ.js",
+      "_Label-pmD9rofU.js",
+      "_Tex-CIvlfUE1.js",
+      "_vendor-react-B4ifrALW.js",
+      "_metas-BX53p_cs.js",
+      "_DataPoints-Cf7Vw1uj.js",
+      "_ParametricCurve-CIiim-ul.js",
+      "_Point-DhUvlzBD.js",
+      "_vendor-3d-B5WhV1Bj.js",
+      "_motion-BORbTR24.js"
     ]
   },
   "src/player/dev/DevOverlay.tsx": {
-    "file": "assets/DevOverlay-ChyoL3ww.js",
+    "file": "assets/DevOverlay-DmwGQ7-V.js",
     "name": "DevOverlay",
     "src": "src/player/dev/DevOverlay.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-XKyaHtl9.js",
-      "_vendor-react-CVpX7CXv.js",
+      "_vendor-react-B4ifrALW.js",
+      "index.html",
+      "_quality-BevRpHDh.js",
       "src/app/LessonPage.tsx",
-      "_quality-cBntSlcS.js",
-      "_Label-CIG7xFYZ.js"
+      "_Label-pmD9rofU.js"
     ]
   }
 }
